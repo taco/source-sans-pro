@@ -20,5 +20,5 @@
   font-family: 'Source Sans Pro';
   font-style: italic;
   font-weight: 700;
-  src: local('Source Sans Pro Bold Italic'), local('SourceSansPro-BoldIt'), local('SourceSansPro-BoldIt'), url(fonts/SourceSansPro-BoldIt.woff2) format('woff2'), url(fonts/SourceSansPro-BoldIt.woff) format('woff');
+  src: local('Source Sans Pro Bold Italic'), local('SourceSansPro-BoldIt'), url(fonts/SourceSansPro-BoldIt.woff2) format('woff2'), url(fonts/SourceSansPro-BoldIt.woff) format('woff');
 }
